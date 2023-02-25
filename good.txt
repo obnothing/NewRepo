@@ -1,4 +1,4 @@
-
+remote text
 good.txt texted in branch hot_fix
 
 good.txt texted in branch master
