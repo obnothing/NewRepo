@@ -1,1 +1,1 @@
-good.txt texted in branch
+good.txt texted in branch hot_fix
